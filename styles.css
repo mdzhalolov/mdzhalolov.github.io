@@ -30,14 +30,3 @@ footer {
   background-color: #4CAF50;
   color: white;
 }
-
-.citation {
-  text-align: center;
-  font-style: italic;
-  margin-top: 5px;
-}
-
-.img-container {
-  width: 100%;
-  margin-bottom: 10px; /* Adjust as needed */
-}
